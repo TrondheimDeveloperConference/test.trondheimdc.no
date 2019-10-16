@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.95dc1e1f.chunk.css",
-    "main.js": "/static/js/main.ad9dfa2c.chunk.js",
-    "main.js.map": "/static/js/main.ad9dfa2c.chunk.js.map",
+    "main.js": "/static/js/main.4c484dcb.chunk.js",
+    "main.js.map": "/static/js/main.4c484dcb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3a942fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3a942fc.js.map",
-    "static/js/2.5dc7f72c.chunk.js": "/static/js/2.5dc7f72c.chunk.js",
-    "static/js/2.5dc7f72c.chunk.js.map": "/static/js/2.5dc7f72c.chunk.js.map",
+    "static/js/2.feb15019.chunk.js": "/static/js/2.feb15019.chunk.js",
+    "static/js/2.feb15019.chunk.js.map": "/static/js/2.feb15019.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b017596f9132755a61854b802895681f.js": "/precache-manifest.b017596f9132755a61854b802895681f.js",
+    "precache-manifest.bea97d430cca6fc571279fae7250c895.js": "/precache-manifest.bea97d430cca6fc571279fae7250c895.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.95dc1e1f.chunk.css.map": "/static/css/main.95dc1e1f.chunk.css.map",
     "static/media/bekk.svg": "/static/media/bekk.ec93ab07.svg",
@@ -37,6 +37,7 @@
     "static/media/signicat.svg": "/static/media/signicat.0ec9cf57.svg",
     "static/media/spillmakerlauget.svg": "/static/media/spillmakerlauget.cac1f219.svg",
     "static/media/sportradar.png": "/static/media/sportradar.7e5096d3.png",
+    "static/media/startups_jumbotron.png": "/static/media/startups_jumbotron.488a9d1e.png",
     "static/media/tdc_jumbotron.png": "/static/media/tdc_jumbotron.4399c36b.png",
     "static/media/twitter.svg": "/static/media/twitter.a1223de5.svg",
     "static/media/uninett.svg": "/static/media/uninett.7730421d.svg",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3a942fc.js",
-    "static/js/2.5dc7f72c.chunk.js",
+    "static/js/2.feb15019.chunk.js",
     "static/css/main.95dc1e1f.chunk.css",
-    "static/js/main.ad9dfa2c.chunk.js"
+    "static/js/main.4c484dcb.chunk.js"
   ]
 }
