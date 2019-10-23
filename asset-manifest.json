@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.259569a2.chunk.css",
-    "main.js": "/static/js/main.8ad6a651.chunk.js",
-    "main.js.map": "/static/js/main.8ad6a651.chunk.js.map",
+    "main.css": "/static/css/main.ddf2f134.chunk.css",
+    "main.js": "/static/js/main.15643a7f.chunk.js",
+    "main.js.map": "/static/js/main.15643a7f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b3a942fc.js",
     "runtime-main.js.map": "/static/js/runtime-main.b3a942fc.js.map",
-    "static/js/2.e166b7aa.chunk.js": "/static/js/2.e166b7aa.chunk.js",
-    "static/js/2.e166b7aa.chunk.js.map": "/static/js/2.e166b7aa.chunk.js.map",
+    "static/js/2.fd181b94.chunk.js": "/static/js/2.fd181b94.chunk.js",
+    "static/js/2.fd181b94.chunk.js.map": "/static/js/2.fd181b94.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.25cd89709c61b509ec360b259b392979.js": "/precache-manifest.25cd89709c61b509ec360b259b392979.js",
+    "precache-manifest.fbf25726d874ba47a85aec0d1232b972.js": "/precache-manifest.fbf25726d874ba47a85aec0d1232b972.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.259569a2.chunk.css.map": "/static/css/main.259569a2.chunk.css.map",
+    "static/css/main.ddf2f134.chunk.css.map": "/static/css/main.ddf2f134.chunk.css.map",
     "static/media/bekk.svg": "/static/media/bekk.ec93ab07.svg",
     "static/media/bg2.png": "/static/media/bg2.7752a015.png",
     "static/media/index.css": "/static/media/bg_jumbotron.6b7d0519.jpg",
@@ -19,7 +19,7 @@
     "static/media/cgi.svg": "/static/media/cgi.c3f5540c.svg",
     "static/media/coc_background.png": "/static/media/coc_background.7941ef85.png",
     "static/media/code_jumbotron.png": "/static/media/code_jumbotron.9f90e129.png",
-    "static/media/dataforeningen.svg": "/static/media/dataforeningen.b449cb91.svg",
+    "static/media/dataforeningen.svg": "/static/media/dataforeningen.cf145a2c.svg",
     "static/media/dips.svg": "/static/media/dips.bfd62a59.svg",
     "static/media/email.svg": "/static/media/email.46bb5905.svg",
     "static/media/equinor.svg": "/static/media/equinor.e292e311.svg",
@@ -52,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3a942fc.js",
-    "static/js/2.e166b7aa.chunk.js",
-    "static/css/main.259569a2.chunk.css",
-    "static/js/main.8ad6a651.chunk.js"
+    "static/js/2.fd181b94.chunk.js",
+    "static/css/main.ddf2f134.chunk.css",
+    "static/js/main.15643a7f.chunk.js"
   ]
 }

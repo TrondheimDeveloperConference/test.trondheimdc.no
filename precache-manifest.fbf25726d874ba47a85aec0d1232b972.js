@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ade8630fe709257aa30d7817d4b8dd5e",
+    "revision": "058ddb1655dcf6262ad4f86d7961b823",
     "url": "/index.html"
   },
   {
-    "revision": "52d09ff6b382b21512cc",
-    "url": "/static/css/main.259569a2.chunk.css"
+    "revision": "b928381f51931bf91e6a",
+    "url": "/static/css/main.ddf2f134.chunk.css"
   },
   {
-    "revision": "688dd19df27f41e69451",
-    "url": "/static/js/2.e166b7aa.chunk.js"
+    "revision": "9ee03a36b9b808143277",
+    "url": "/static/js/2.fd181b94.chunk.js"
   },
   {
-    "revision": "52d09ff6b382b21512cc",
-    "url": "/static/js/main.8ad6a651.chunk.js"
+    "revision": "b928381f51931bf91e6a",
+    "url": "/static/js/main.15643a7f.chunk.js"
   },
   {
     "revision": "3ae9dbb2eb3ede2de076",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/code_jumbotron.9f90e129.png"
   },
   {
-    "revision": "b449cb9113b5fed5ebf7301ff763e0be",
-    "url": "/static/media/dataforeningen.b449cb91.svg"
+    "revision": "cf145a2ceff57c5f678820be6d68cca9",
+    "url": "/static/media/dataforeningen.cf145a2c.svg"
   },
   {
     "revision": "bfd62a5948defbc44c82fb4b3d4a4f8d",
