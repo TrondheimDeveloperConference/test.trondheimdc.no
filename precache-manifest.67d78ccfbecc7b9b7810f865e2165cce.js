@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a89d27b4898fafce5704c9521190890",
+    "revision": "0aaafd89efb84274529f8ee072c7883c",
     "url": "/index.html"
   },
   {
-    "revision": "6f0260b132b99b3715d7",
-    "url": "/static/css/main.476ecc43.chunk.css"
+    "revision": "3fb96bf09e85cfad8beb",
+    "url": "/static/css/main.124d90ba.chunk.css"
   },
   {
     "revision": "0e8f7d930deb736da257",
     "url": "/static/js/2.210a8419.chunk.js"
   },
   {
-    "revision": "6f0260b132b99b3715d7",
+    "revision": "3fb96bf09e85cfad8beb",
     "url": "/static/js/main.4b834313.chunk.js"
   },
   {
@@ -92,12 +92,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/glasspaper.d161672c.svg"
   },
   {
-    "revision": "62bf223d2bb23b29a9afbb41d81fee8e",
-    "url": "/static/media/hamburger.62bf223d.svg"
+    "revision": "597b1cb39bdf308f75efcdb6fc2ea102",
+    "url": "/static/media/hamburger.597b1cb3.svg"
   },
   {
-    "revision": "597b1cb39bdf308f75efcdb6fc2ea102",
-    "url": "/static/media/hamburger_closed.597b1cb3.svg"
+    "revision": "62bf223d2bb23b29a9afbb41d81fee8e",
+    "url": "/static/media/hamburger_closed.62bf223d.svg"
   },
   {
     "revision": "01b7ea06a552892f2fe49d9a5738e574",
